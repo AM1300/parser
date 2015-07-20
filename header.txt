@@ -1,0 +1,2 @@
+timestamp,price,quantity,load,type,deviceID,phase,houseID,nodeID
+timestamp,reactive_power,total_load,devID,phase,houseID,nodeID
